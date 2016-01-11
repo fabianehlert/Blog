@@ -1,2 +1,2 @@
-# blog
-Coming soon. Markdown files of posts on http://fabianehlert.com – Will always remain WIP.
+# Blog
+Coming soon. Markdown files of posts on [my website](http://fabianehlert.com) – Will always remain WIP.
