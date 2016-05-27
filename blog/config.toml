@@ -1,0 +1,41 @@
+baseurl = "http://www.fabianehlert.com/blog/"
+languageCode = "en-us"
+title = "Fabian Ehlert"
+theme = "casper"
+paginate = 10
+DisqusShortname = "Fabian Ehlert"
+Copyright = "All rights reserved - 2016"
+
+[params]
+  description = "Thoughts, stories and ideas on mobile app development, life, earth and the universe."
+  logo = "images/essential/logo_fabianehlert.png"
+  cover = "images/essential/cover.jpg"
+  author = "Fabian Ehlert"
+  authorlocation = "Frankfurt, Germany"
+  authorwebsite = "http://fabianehlert.com"
+  bio = "My bio"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/fabianehlert.com"
+  githubName = "fabianehlert"
+  twitterName = "fabianehlert"
+  # linkedinName = "https://de.linkedin.com/in/fabianehlert"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+  [[menu.main]]
+    name = "My Blog"
+    weight = -120
+    identifier = "blog"
+    url = "/"
+
+  [[menu.main]]
+    name = "Projects"
+    weight = -110
+    identifier = "projects"
+    url = "/projects"
+
+  [[menu.main]]
+    name = "About me"
+    weight = -100
+    identifier = "about"
+    url = "/about"
