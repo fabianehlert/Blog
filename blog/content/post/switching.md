@@ -3,8 +3,10 @@ author = "fabianehlert"
 date = "2016-05-27T14:57:35+02:00"
 draft = false
 title = "Am I going to switch?"
+tags = ["blog","website","hugo"]
 image = "images/essential/switching.jpg"
-
+comments = false
+share = true
 +++
 
 While seeking for an easy way to compose blog posts and also showing my portfolio I bumped into ["Hugo"](https://github.com/spf13/hugo).

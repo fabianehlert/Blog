@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Fabian Ehlert</title>
+    <link>http://www.fabianehlert.com/tags/website/</link>
+    <description>Recent content in Website on Fabian Ehlert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Fri, 27 May 2016 14:57:35 +0200</lastBuildDate>
+    <atom:link href="http://www.fabianehlert.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Am I going to switch?</title>
+      <link>http://www.fabianehlert.com/post/switching/</link>
+      <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
+      
+      <guid>http://www.fabianehlert.com/post/switching/</guid>
+      <description>
+
+&lt;p&gt;While seeking for an easy way to compose blog posts and also showing my portfolio I bumped into &lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;&amp;ldquo;Hugo&amp;rdquo;&lt;/a&gt;.
+I created my previous website with Adobe&amp;rsquo;s Muse app. It&amp;rsquo;s easy to learn and gives me a lot of different options to create my website. But I still feel it&amp;rsquo;s too hard to deal with. I&amp;rsquo;m just not able to instantly publish my ideas as I always have to deal with formatting the text, moving around text boxes and other elements. It just seems to static. Okay, maybe I just haven&amp;rsquo;t figured out yet how to properly set it up for a more dynamic usage but anyways it&amp;rsquo;s not what I&amp;rsquo;m looking for. It&amp;rsquo;s not intuitive enough for me and I also don&amp;rsquo;t want to spend the time learning Muse before I can publish content.&lt;/p&gt;
+
+&lt;h5 id=&#34;what-am-i-looking-for:c3482be23f6832233584a447a06df954&#34;&gt;What am I looking for?&lt;/h5&gt;
+
+&lt;p&gt;I&amp;rsquo;m looking for a tool that is capable of interpreting markdown (Hugo is ;) 👍) and that doesn&amp;rsquo;t require me to set up a lot and is easy to maintain. For me it is all about the content. I don&amp;rsquo;t want to spend a lot of time dealing with stuff that prevents me from directly putting out my ideas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
