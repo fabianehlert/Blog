@@ -27,19 +27,5 @@ I created my current website with Adobe&amp;rsquo;s Muse app. It&amp;rsquo;s eas
 </description>
     </item>
     
-    <item>
-      <title>hello</title>
-      <link>http://www.fabianehlert.com/blog/post/hello/</link>
-      <pubDate>Fri, 27 May 2016 14:56:50 +0200</pubDate>
-      
-      <guid>http://www.fabianehlert.com/blog/post/hello/</guid>
-      <description>
-
-&lt;h1 id=&#34;hello-world:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;Hello world!&lt;/h1&gt;
-
-&lt;h3 id=&#34;bla-baa:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;bla baa&lt;/h3&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
