@@ -3,7 +3,7 @@ author = "fabianehlert"
 date = "2016-05-27T14:57:35+02:00"
 draft = false
 title = "Am I going to switch?"
-image = "images/essential/cover.jpg"
+image = "images/essential/switching.jpg"
 
 +++
 
