@@ -2,34 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabian Ehlert</title>
-    <link>http://www.fabianehlert.com/blog/</link>
+    <link>http://www.fabianehlert.com/</link>
     <description>Recent content on Fabian Ehlert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Fri, 27 May 2016 14:57:35 +0200</lastBuildDate>
-    <atom:link href="http://www.fabianehlert.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fabianehlert.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AKG Bensheim iOS App</title>
-      <link>http://www.fabianehlert.com/blog/projects/AKG/</link>
+      <link>http://www.fabianehlert.com/projects/AKG/</link>
       <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
       
-      <guid>http://www.fabianehlert.com/blog/projects/AKG/</guid>
+      <guid>http://www.fabianehlert.com/projects/AKG/</guid>
       <description>&lt;p&gt;An App I developed to help the students at my school getting through their schooldays more easily.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../akg-screen1.png&#34; alt=&#34;Screenshot1&#34; style=&#34;width: 200px;&#34;/&gt;
-&lt;img src=&#34;../akg-screen2.png&#34; alt=&#34;Screenshot2&#34; style=&#34;width: 200px;&#34;/&gt;
+&lt;p&gt;Check it out on the &lt;a href=&#34;http://appstore.com/akgbensheim&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The supply plan shows cancelled lessons etc.
+&lt;img src=&#34;../akg-screen1.png&#34; alt=&#34;Screenshot1&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Beautiful detail-view.
+&lt;img src=&#34;../akg-screen2.png&#34; alt=&#34;Screenshot2&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;The menu.
 &lt;img src=&#34;../akg-screen3.png&#34; alt=&#34;Screenshot3&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://www.fabianehlert.com/blog/about/</link>
+      <link>http://www.fabianehlert.com/about/</link>
       <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
       
-      <guid>http://www.fabianehlert.com/blog/about/</guid>
+      <guid>http://www.fabianehlert.com/about/</guid>
       <description>
 
 &lt;p&gt;Hi! I&amp;rsquo;m Fabian. I&amp;rsquo;m a passionate mobile App Developer and Designer based in Germany.
@@ -44,28 +51,28 @@ I love creating Apps that are simply unique and feature an astonishing user expe
     </item>
     
     <item>
-      <title>Am I switching?</title>
-      <link>http://www.fabianehlert.com/blog/post/switching/</link>
+      <title>Am I going to switch?</title>
+      <link>http://www.fabianehlert.com/post/switching/</link>
       <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
       
-      <guid>http://www.fabianehlert.com/blog/post/switching/</guid>
+      <guid>http://www.fabianehlert.com/post/switching/</guid>
       <description>
 
-&lt;p&gt;While seeking for an easy way to compose blog posts and also showing my portfolio I bumped into &amp;ldquo;Ghost&amp;rdquo;.
-I created my current website with Adobe&amp;rsquo;s Muse app. It&amp;rsquo;s easy to learn and gives me a lot of different options to create my website. But I still feel it&amp;rsquo;s too hard to deal with. I&amp;rsquo;m just not able to instantly publish my ideas as I always have to deal with formatting the text, moving around text boxes and other elements. It just seems to static. Okay, maybe I just haven&amp;rsquo;t figured out yet how to properly set it up for a more dynamic usage but anyways it&amp;rsquo;s not what I&amp;rsquo;m looking for. It&amp;rsquo;s not intuitive enough for me and I also don&amp;rsquo;t want to spend the time learning Muse before I can publish content.&lt;/p&gt;
+&lt;p&gt;While seeking for an easy way to compose blog posts and also showing my portfolio I bumped into &lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;&amp;ldquo;Hugo&amp;rdquo;&lt;/a&gt;.
+I created my previous website with Adobe&amp;rsquo;s Muse app. It&amp;rsquo;s easy to learn and gives me a lot of different options to create my website. But I still feel it&amp;rsquo;s too hard to deal with. I&amp;rsquo;m just not able to instantly publish my ideas as I always have to deal with formatting the text, moving around text boxes and other elements. It just seems to static. Okay, maybe I just haven&amp;rsquo;t figured out yet how to properly set it up for a more dynamic usage but anyways it&amp;rsquo;s not what I&amp;rsquo;m looking for. It&amp;rsquo;s not intuitive enough for me and I also don&amp;rsquo;t want to spend the time learning Muse before I can publish content.&lt;/p&gt;
 
 &lt;h5 id=&#34;what-am-i-looking-for:c3482be23f6832233584a447a06df954&#34;&gt;What am I looking for?&lt;/h5&gt;
 
-&lt;p&gt;I&amp;rsquo;m looking for a tool that is capable of reading markdown (Ghost is ;) 👍) and that doesn&amp;rsquo;t require me to set up a lot and is easy to maintain. For me it is all about the content. I don&amp;rsquo;t want to spend a lot of time dealing with stuff that prevents me from directly putting out my ideas. Ghost seems pretty great so far but I&amp;rsquo;ll have to play around with it a little longer to figure out whether it&amp;rsquo;s appropriate for what I am looking for.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m looking for a tool that is capable of interpreting markdown (Hugo is ;) 👍) and that doesn&amp;rsquo;t require me to set up a lot and is easy to maintain. For me it is all about the content. I don&amp;rsquo;t want to spend a lot of time dealing with stuff that prevents me from directly putting out my ideas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Daqo iExcellence App</title>
-      <link>http://www.fabianehlert.com/blog/projects/iExcellence/</link>
+      <link>http://www.fabianehlert.com/projects/iExcellence/</link>
       <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
       
-      <guid>http://www.fabianehlert.com/blog/projects/iExcellence/</guid>
+      <guid>http://www.fabianehlert.com/projects/iExcellence/</guid>
       <description>&lt;p&gt;An iOS and Android App I developed for the chinese electronics company Daqo.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../iexcellence-screen1.png&#34; alt=&#34;Screenshot1&#34; style=&#34;width: 200px;&#34;/&gt;

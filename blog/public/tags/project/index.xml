@@ -2,34 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Fabian Ehlert</title>
-    <link>http://www.fabianehlert.com/blog/tags/project/</link>
+    <link>http://www.fabianehlert.com/tags/project/</link>
     <description>Recent content in Project on Fabian Ehlert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Fri, 27 May 2016 14:57:35 +0200</lastBuildDate>
-    <atom:link href="http://www.fabianehlert.com/blog/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.fabianehlert.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AKG Bensheim iOS App</title>
-      <link>http://www.fabianehlert.com/blog/projects/AKG/</link>
+      <link>http://www.fabianehlert.com/projects/AKG/</link>
       <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
       
-      <guid>http://www.fabianehlert.com/blog/projects/AKG/</guid>
+      <guid>http://www.fabianehlert.com/projects/AKG/</guid>
       <description>&lt;p&gt;An App I developed to help the students at my school getting through their schooldays more easily.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../akg-screen1.png&#34; alt=&#34;Screenshot1&#34; style=&#34;width: 200px;&#34;/&gt;
-&lt;img src=&#34;../akg-screen2.png&#34; alt=&#34;Screenshot2&#34; style=&#34;width: 200px;&#34;/&gt;
+&lt;p&gt;Check it out on the &lt;a href=&#34;http://appstore.com/akgbensheim&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The supply plan shows cancelled lessons etc.
+&lt;img src=&#34;../akg-screen1.png&#34; alt=&#34;Screenshot1&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Beautiful detail-view.
+&lt;img src=&#34;../akg-screen2.png&#34; alt=&#34;Screenshot2&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;The menu.
 &lt;img src=&#34;../akg-screen3.png&#34; alt=&#34;Screenshot3&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Daqo iExcellence App</title>
-      <link>http://www.fabianehlert.com/blog/projects/iExcellence/</link>
+      <link>http://www.fabianehlert.com/projects/iExcellence/</link>
       <pubDate>Fri, 27 May 2016 14:57:35 +0200</pubDate>
       
-      <guid>http://www.fabianehlert.com/blog/projects/iExcellence/</guid>
+      <guid>http://www.fabianehlert.com/projects/iExcellence/</guid>
       <description>&lt;p&gt;An iOS and Android App I developed for the chinese electronics company Daqo.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../iexcellence-screen1.png&#34; alt=&#34;Screenshot1&#34; style=&#34;width: 200px;&#34;/&gt;
