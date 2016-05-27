@@ -39,3 +39,8 @@ Copyright = "All rights reserved - 2016"
     weight = 101
     identifier = "about"
     url = "/about"
+
+  [[menu.main]]
+    name = "Contact me"
+    url = "mailto:hello@fabianehlert.com"
+    weight = 102
