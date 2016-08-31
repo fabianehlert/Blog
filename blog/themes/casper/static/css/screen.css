@@ -697,6 +697,11 @@ body.nav-opened .nav {
     color: #fff;
 }
 
+.navbar .nav>li>a:first-letter {
+    font-family: genericons;
+    font-size: 1.5em;
+}
+
 .subscribe-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
