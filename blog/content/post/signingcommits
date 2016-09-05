@@ -1,0 +1,26 @@
++++
+author = "fabianehlert"
+date = "2016-09-05"
+draft = true
+title = "Signing GitHub Commits"
+tags = ["GPG","Sign","Commit","Git"]
+image = "images/essential/alcatraz-sf.jpg"
+comments = false
+share = true
++++
+
+## Introduction
+
+## GPGTools
+
+## GitHub preparation
+
+## Terminal
+
+## Autosign with Tower
+
+## Why sign at all?
+- Security
+- Certainty
+
+<img src="../assets/supdubdub-twitter.jpg" alt="Twitter" style="width: 700px;"/>
