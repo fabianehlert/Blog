@@ -13,10 +13,10 @@ The World Wide Developers Conference. Probably the most attractive conference in
 <br><br>Although I cannot attend WWDC, it's been a great decision so far! It's really not about the conference, it's rather a gigantic socializing event taking place throughout the whole week where thousands of people from around the globe gather together, communicate and exchange their knowledge regardless of their experience, age and so on.
 <br><br>The side-events organized by known companies such as Twitter, lyft and Realm are really what makes that possible. All of them are free to attend and it's a quite unique experience visiting the headquarters of these companies and getting to know the spirit behind their work at least a little. Ironically we took an Uber to get to the lyft HQ 😁
 
-<img src="../assets/supdubdub-twitter.jpg" alt="Twitter" style="width: 700px;"/>
+<img src="../supdubdub/supdubdub-twitter.jpg" alt="Twitter" style="width: 700px;"/>
 
 Also there are many events organized by the community like the "WWDC hike" where we hiked about six miles along the coast of San Francisco. Everyone was free to join and that's where most of us first met during the dub dub week.
 
-<img src="../assets/supdubdub-hike.jpg" alt="WWDC Hike" style="width: 700px;"/>
+<img src="../supdubdub/supdubdub-hike.jpg" alt="WWDC Hike" style="width: 700px;"/>
 
 It's amazing how many great and inspiring people you can meet in such a short amount of time and how it pushes yourself forward when sharing your ideas and thoughts with others. There's so much talent in the community and everyone is open to you! That truly impresses me 🙇
