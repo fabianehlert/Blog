@@ -1,5 +1,5 @@
 # My Blog
-My blog from [http://fabianehlert.com](http://fabianehlert.com).
+My blog from [https://fabianehlert.com](https://fabianehlert.com).
 
 ## Hugo
 My blog and website is created with the open-source website generator Hugo. Check it out here: [https://github.com/spf13/hugo](https://github.com/spf13/hugo)
