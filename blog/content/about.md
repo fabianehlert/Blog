@@ -9,10 +9,16 @@ share = false
 menu = ""
 +++
 
-Hi! I'm Fabian. I'm a passionate mobile App Developer and Designer based in Germany.
-I love creating Apps that are simply unique and feature an astonishing user experience evoked by a one of a kind user interface and code coded to the edge of perfection.
+Hey! 👋 I'm Fabian from Germany. I love developing and designing stuff. Especially Apps 😉
 
-# Contact me!
-If you have any questions, please feel free to ask me! You would like to drink some coffee or tea with me? Just ask! Because asking has a tremendous power.
+> **Interested in UX & UI since April 23rd 1997**
+
+> **Doing iOS since Retina** (meaning I started when the iPhone 4 came out in 2010 😉)
+
+> **I had also been doing some Android development in the past**
+
+## Get in touch
+Don't be shy, say hey! 😊
+<br>Wanna drink some coffee or tea? Just ask! Because asking has a tremendous power 🙇
 
 Mail: [hello@fabianehlert.com](mailto:hello@fabianehlert.com)

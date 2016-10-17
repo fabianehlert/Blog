@@ -7,11 +7,11 @@ DisqusShortname = "Fabian Ehlert"
 Copyright = "All rights reserved - 2016"
 
 [params]
-  description = "iOS Developer | UI & UX Designer"
-  logo = "images/essential/logo_fabianehlert.png"
+  description = "...developing & designing stuff out of Milky Way Galaxy."
+  logo = "images/essential/me.circle.png"
   cover = "images/essential/cover.jpg"
   author = "Fabian Ehlert"
-  authorlocation = "Frankfurt, Germany"
+  authorlocation = "Zwingenberg (Bergstr.), Germany"
   authorwebsite = "https://fabianehlert.com"
   # bio = "My bio"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
