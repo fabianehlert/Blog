@@ -11,11 +11,13 @@ menu = ""
 
 Hey! 👋 I'm Fabian from Germany. I love developing and designing stuff. Especially Apps 😉
 
-> **Interested in UX & UI since April 23rd 1997**
+> **Curious about UX & UI since April 23rd 1997**
 
 > **Doing iOS since Retina** (meaning I started when the iPhone 4 came out in 2010 😉)
 
 > **I had also been doing some Android development in the past**
+
+> **In love with photography**
 
 ## Get in touch
 Don't be shy, say hey! 😊
