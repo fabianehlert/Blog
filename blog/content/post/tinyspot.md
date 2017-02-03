@@ -11,4 +11,4 @@ share = true
 
 Travelling. Realizing that planet earth isn't infinite.
 
-<img src="../assets/supdubdub-twitter.jpg" alt="Twitter" style="width: 700px;"/>
+<img src="../supdubdub/supdubdub-twitter.jpg" alt="Twitter" style="width: 700px;"/>

@@ -16,10 +16,10 @@ Check it out on the [App Store](http://appstore.com/akgbensheim)
 <br>You can also check out the source code on [GitHub](https://github.com/fabianehlert/AKG-Bensheim-iOS)
 
 The substitution plan shows cancelled lessons etc. Every user can select his or her class and courses to see only relevant information.
-<img src="../akg-screen1.png" alt="Screenshot1" style="width: 300px;"/>
+<img src="../akg/akg-screen1.png" alt="Screenshot1" style="width: 300px;"/>
 
 The detail-view shows additional information such as remarks. It can be dismissed just by flicking it away with your finger. If you try it out you'll notice that it behaves physically accurate.
-<img src="../akg-screen2.png" alt="Screenshot2" style="width: 300px;"/>
+<img src="../akg/akg-screen2.png" alt="Screenshot2" style="width: 300px;"/>
 
 The menu. The center of navigation to quickly get you where you want to be. It follows a basic "Navigation-Drawer" concept with the menu lying underneath the selected view. It can be opened by swiping over the view that lies on top of it.
-<img src="../akg-screen3.png" alt="Screenshot3" style="width: 300px;"/>
+<img src="../akg/akg-screen3.png" alt="Screenshot3" style="width: 300px;"/>
