@@ -9,7 +9,7 @@ share = false
 menu = ""
 +++
 
-Hey! 👋 I'm Fabian from Germany. I love developing and designing stuff. Especially Apps 😉
+Hey! 👋 I'm Fabian from Denmark, originally from Germany. I love developing and designing stuff. Especially Apps!
 
 > **Curious about UX & UI since April 23rd 1997**
 
