@@ -9,18 +9,20 @@ share = false
 menu = ""
 +++
 
-Hey! 👋 I'm Fabian from Denmark, originally from Germany. I love developing and designing stuff. Especially Apps!
+Hey! 👋 I'm Fabian from Dresden, Germany. I love developing and designing stuff. Especially Apps!
 
-> **Curious about UX & UI since April 23rd 1997**
+> **I first started experimenting with iOS in 2010.**
 
-> **Doing iOS since Retina** (meaning I started when the iPhone 4 came out in 2010 😉)
+> **I have also done some Android development in the past.**
 
-> **I had also been doing some Android development in the past**
+> **Very picky when it comes to UX & UI.**
 
-> **In love with photography**
+> **And I love photography and travel!**
+
+> **Currently, I am studying Computer Science in Dresden**
 
 ## Get in touch
-Don't be shy, say hey! 😊
-<br>Wanna drink some coffee or tea? Just ask! Because asking has a tremendous power 🙇
 
-Mail: [hello@fabianehlert.com](mailto:hello@fabianehlert.com)
+<br>Wanna 🙇  
+
+Mail: [fabian@fabianehlert.com](mailto:fabian@fabianehlert.com)
