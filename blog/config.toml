@@ -24,23 +24,28 @@ Copyright = "All rights reserved - 2018"
 
   [[menu.main]]
     name = "Blog"
-    weight = -120
+    weight = 100
     identifier = "blog"
     url = "/"
 
   [[menu.main]]
     name = "Projects"
-    weight = 100
+    weight = 90
     identifier = "projects"
     url = "/projects"
 
   [[menu.main]]
     name = "About me"
-    weight = 101
+    weight = 80
     identifier = "about"
     url = "/about"
 
   [[menu.main]]
     name = "Contact me"
     url = "mailto:fabian@fabianehlert.com"
-    weight = 102
+    weight = 70
+
+  [[menu.main]]
+    name = "Imprint"
+    url = "/imprint"
+    weight = 60
