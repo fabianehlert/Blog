@@ -23,6 +23,6 @@ Hey! 👋 I'm Fabian from Dresden, Germany. I love developing and designing stuf
 
 ## Get in touch
 
-<br>Wanna 🙇  
+<br>Let's drink tea and talk together ツ  
 
 Mail: [fabian@fabianehlert.com](mailto:fabian@fabianehlert.com)
