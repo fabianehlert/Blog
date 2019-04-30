@@ -1,6 +1,6 @@
 +++
 author = "fabianehlert"
-date = "2018-01-22"
+date = "2019-04-30"
 draft = false
 title = "Imprint"
 image = ""
@@ -13,7 +13,7 @@ Legal Disclosure
 Information in accordance with section 5 TMG
 
 Fabian Ehlert<br>
-Müllerbrunnenstraße 7<br>
+Nöthnitzer Str. 23<br>
 01187 Dresden<br>
 
 Mail: [fabian@fabianehlert.com](mailto:fabian@fabianehlert.com)<br>

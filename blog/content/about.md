@@ -19,8 +19,6 @@ Hey! 👋 I'm Fabian from Dresden, Germany. I love developing and designing stuf
 
 > **And I love photography and travel!**
 
-> **Currently, I am studying Computer Science in Dresden**
-
 ## Get in touch
 
 <br>Let's drink tea and talk together ツ  

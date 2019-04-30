@@ -4,7 +4,7 @@ title = "Fabian Ehlert"
 theme = "casper"
 paginate = 10
 DisqusShortname = "Fabian Ehlert"
-Copyright = "All rights reserved - 2018"
+Copyright = "All rights reserved - 2019"
 
 [params]
   description = "...developing & designing stuff out of Milky Way Galaxy."
@@ -14,8 +14,6 @@ Copyright = "All rights reserved - 2018"
   authorlocation = "Dresden, Germany"
   authorwebsite = "https://fabianehlert.com"
   # bio = "My bio"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  # RSSLink = "http://feeds.feedburner.com/fabianehlert.com"
   githubName = "fabianehlert"
   twitterName = "fabianehlert"
   # linkedinName = "https://de.linkedin.com/in/fabianehlert"
@@ -39,11 +37,6 @@ Copyright = "All rights reserved - 2018"
     weight = 80
     identifier = "about"
     url = "/about"
-
-  [[menu.main]]
-    name = "Contact me"
-    url = "mailto:fabian@fabianehlert.com"
-    weight = 70
 
   [[menu.main]]
     name = "Imprint"
