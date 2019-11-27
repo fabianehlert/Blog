@@ -1,6 +1,5 @@
 +++
 author = "fabianehlert"
-date = "2012-05-01"
 draft = false
 title = "AKG Bensheim iOS App"
 image = "images/essential/cover.jpg"

@@ -1,6 +1,5 @@
 +++
 author = "fabianehlert"
-date = "2015-02-01"
 draft = false
 title = "Daqo iExcellence App"
 image = "images/essential/chinadq.jpg"

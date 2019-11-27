@@ -1,6 +1,5 @@
 +++
 author = "fabianehlert"
-date = "2019-04-30"
 draft = false
 title = "Imprint"
 image = ""

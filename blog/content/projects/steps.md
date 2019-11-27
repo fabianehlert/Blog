@@ -1,6 +1,5 @@
 +++
 author = "fabianehlert"
-date = "2017-02-03"
 draft = false
 title = "Steps"
 image = "images/essential/steps-cover.jpg"

@@ -1,6 +1,5 @@
 +++
 author = "fabianehlert"
-date = "2017-12-20"
 draft = false
 title = "HTW iOS App"
 image = "images/essential/HTW-Header.jpg"

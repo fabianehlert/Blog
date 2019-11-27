@@ -1,6 +1,5 @@
 +++
 author = "fabianehlert"
-date = "2016-05-27T14:57:35+02:00"
 draft = false
 title = "About me"
 image = "images/essential/aboutme.jpg"
