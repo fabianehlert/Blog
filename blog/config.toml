@@ -1,45 +1,71 @@
 baseurl = "https://www.fabianehlert.com/"
 languageCode = "en-us"
-title = "Fabian Ehlert"
-theme = "casper"
-paginate = 10
-DisqusShortname = "Fabian Ehlert"
-Copyright = "All rights reserved - 2019"
+theme = "raditian-free-hugo-theme"
+Copyright = "Copyright © 2020 Fabian Ehlert. All rights reserved."
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+# navigation
+[menu]
+
+  # Header
+
+  [[menu.header]]
+  name = "Photos"
+  URL = "https://photos.fabianehlert.com"
+  weight = 2
+
+  [[menu.header]]
+  name = "Curriculum Vitae"
+  URL = "https://fabianehlert.com/cv.pdf"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "mailto:hello@fabianehlert.com"
+  weight = 4
+
+  # Footer
+
+  [[menu.footer]]
+  name = "Curriculum Vitae"
+  URL = "https://fabianehlert.com/cv.pdf"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "mailto:hello@fabianehlert.com"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Imprint"
+  URL = "https://fabianehlert.com/imprint.html"
+  weight = 4
+
 
 [params]
-  description = "...developing & designing stuff out of Milky Way Galaxy."
-  logo = "images/essential/me.circle.png"
-  cover = "images/essential/cover.jpg"
-  author = "Fabian Ehlert"
-  authorlocation = "Dresden, Germany"
-  authorwebsite = "https://fabianehlert.com"
-  # bio = "My bio"
-  githubName = "fabianehlert"
-  twitterName = "fabianehlert"
-  # linkedinName = "https://de.linkedin.com/in/fabianehlert"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
 
-  [[menu.main]]
-    name = "Blog"
-    weight = 100
-    identifier = "blog"
-    url = "/"
+  sections = ["showcase"]
 
-  [[menu.main]]
-    name = "Projects"
-    weight = 90
-    identifier = "projects"
-    url = "/projects"
+  [params.logo]
+    text1 = "Fabian Ehlert"
 
-  [[menu.main]]
-    name = "About me"
-    weight = 80
-    identifier = "about"
-    url = "/about"
-
-  [[menu.main]]
-    name = "Imprint"
-    weight = 60
-    identifier = "imprint"
-    url = "/imprint"
+  [params.footer]
+      copyright = "Copyright © 2020 Fabian Ehlert. All rights reserved."

@@ -1,0 +1,32 @@
+# homepage
+homepage:
+  head:
+    title: "Fabian Ehlert"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Fabian 👋"
+  subtitle: "Software Engineer"
+  description: "I focus on developing native iOS & iPadOS apps that are both robust and <a target='_blank' href='https://www.w3.org/WAI/standards-guidelines/wcag/'>accessible</a>.
+  <br><br>I work on the <a target='_blank' href='https://wandelbots.com/'>Wandelbots</a> iPad app, making robot programming more accessible. Previously I worked on the <a target='_blank' href='https://lovoo.com/'>LOVOO</a> iOS App.
+  <br><br>In the past I've contributed to the <a target='_blank' href='https://github.com/HTWDD/htwcampus'>HTW Dresden</a> iOS app and <a target='_blank' href='https://www.producthunt.com/posts/cheese'>Cheese</a>, a facial expression game based on the TrueDepth technology. I've also worked on a mental health app called <a target='_blank' href='https://www.producthunt.com/posts/steps-3'>Steps</a>.
+  <br><br>Feel free to contact me via the links below."
+  image:
+    alt: "Profile picture"
+    x: "img/showcase/profile-rounded-padded.png"
+    _2x: "img/showcase/profile-rounded-padded.png"
+  imageMobile:
+    alt: "Profile picture"
+    x: "img/showcase/profile-rounded-padded.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:hello@fabianehlert.com"
+
+  socialLinks:
+    - icon: "github"
+      URL: "https://github.com/fabianehlert"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/fabianehlert"
